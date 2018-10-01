@@ -1,1 +1,2 @@
 a <- plot(x~y, type = "l")
+b <- plot(x~z)
