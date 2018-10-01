@@ -1,2 +1,5 @@
 a <- plot(x~y, type = "l")
 b <- plot(x~z)
+
+c <- plot(z~x)
+d <- plot(z~y)
