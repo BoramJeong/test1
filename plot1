@@ -1,0 +1,1 @@
+a <- plot(x~y, type = "l")
